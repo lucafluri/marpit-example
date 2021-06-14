@@ -10,6 +10,7 @@
 - [QR Code Generator](http://goqr.me/)  
 - [Mermaid Graph Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 - [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp)
+- [Carbon Code Snippets](https://carbon.now.sh/)
   
 
 ## CLI Guide
