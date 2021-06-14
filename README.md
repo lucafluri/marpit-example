@@ -5,8 +5,9 @@
 
 ## Helpful Links
 - [Docs](https://marpit.marp.app/)  
-- [Built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md)
-- [Medium Tutorial](https://daniele-fontani.medium.com/marpit-tutorial-a3ba24229e9)
+- [Built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md)  
+- [Medium Tutorial](https://daniele-fontani.medium.com/marpit-tutorial-a3ba24229e9)  
+- [QR Code Generator](http://goqr.me/)  
   
 
 ## CLI Guide
