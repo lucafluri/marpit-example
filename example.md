@@ -14,8 +14,8 @@ class: invert
 backgroundColor: #121212
 
 paginate: false
-header: "**header**"
-footer: "footer"
+# header: "**header**"
+# footer: "footer"
 
 ---
 <!-- _backgroundColor: yellow -->
