@@ -11,6 +11,7 @@
 - [Mermaid Graph Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 - [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp)
 - [Carbon Code Snippets](https://carbon.now.sh/)
+- [Default Uncover Theme](https://github.com/marp-team/marp-core/blob/main/themes/uncover.scss)
   
 
 ## CLI Guide
