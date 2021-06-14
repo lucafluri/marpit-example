@@ -8,6 +8,7 @@
 - [Built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md)  
 - [Medium Tutorial](https://daniele-fontani.medium.com/marpit-tutorial-a3ba24229e9)  
 - [QR Code Generator](http://goqr.me/)  
+- [Mermaid Graph Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
   
 
 ## CLI Guide
