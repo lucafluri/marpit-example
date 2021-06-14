@@ -9,6 +9,7 @@
 - [Medium Tutorial](https://daniele-fontani.medium.com/marpit-tutorial-a3ba24229e9)  
 - [QR Code Generator](http://goqr.me/)  
 - [Mermaid Graph Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+- [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp)
   
 
 ## CLI Guide
