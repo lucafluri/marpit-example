@@ -97,6 +97,12 @@ columns, rows = shutil.get_terminal_size()
 
 ---
 
+## Math
+$E = mc^2$
+$\frac{1}{2} = \int_{\pi}^{42} x^2 dx$
+
+---
+
 ## Images
 
 ```

@@ -1,6 +1,7 @@
 # Marpit Example and Guide
 [Marp Website](https://marp.app/)  
-[Marp CLI](https://github.com/marp-team/marp-cli)
+[Marp CLI](https://github.com/marp-team/marp-cli)  
+[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 ## Helpful Links
 - [Docs](https://marpit.marp.app/)  
@@ -18,3 +19,4 @@ Convert to `.html` with:
 ```
 marp .\example.md --allow-local-files
 ```
+ 
